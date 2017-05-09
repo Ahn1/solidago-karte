@@ -6,8 +6,10 @@
     "react-scripts": "0.9.5"
   },
   "dependencies": {
+    "leaflet": "^1.0.3",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-leaflet": "^1.1.6"
   },
   "scripts": {
     "start": "react-scripts start",
